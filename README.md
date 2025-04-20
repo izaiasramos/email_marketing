@@ -183,17 +183,3 @@ Após a criação do email, ele foi testado e implementado usando o **Mautic**:
 4. **Ajustes**:
    - Substitua as URLs de imagens e links pelo conteúdo real da sua campanha.
    - Ajuste cores, fontes e textos conforme necessário, mantendo as boas práticas descritas.
-
----
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para usar, modificar e compartilhar, desde que mantenha os créditos ao autor original.
-
----
-
-## Contato
-
-Se tiver dúvidas ou sugestões, abra uma issue no repositório ou entre em contato comigo diretamente pelo GitHub.
-
-Feito com 💻 por [Seu Nome].
